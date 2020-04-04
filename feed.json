@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Midnight-Gaming",
+    "description": "",
+    "home_page_url": "blackdesire-orig.github.io/midnightgaming",
+    "feed_url": "blackdesire-orig.github.io/midnightgaming/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Black Desire"
+    },
+    "items": [
+    ]
+}
